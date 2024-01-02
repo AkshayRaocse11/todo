@@ -1,0 +1,15 @@
+.TodoApp{
+
+    .custom-text-color{
+        color:#54B4D3;
+        font-size: xx-large;
+        font-weight: bolder;
+        font-family: sans-serif;
+    }
+
+    .is-completed{
+        text-decoration: line-through;
+        text-decoration-color: black;
+        text-decoration-thickness: 2px;
+    }
+}
