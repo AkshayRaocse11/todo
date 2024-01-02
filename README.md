@@ -72,4 +72,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### `Result` 
 
-![Todo Result](todo\src\assests\images\Todo.png)
+![Todo Result](https://imgur.com/a/Pj7aOdD)
